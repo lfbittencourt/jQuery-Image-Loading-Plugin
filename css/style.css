@@ -1,0 +1,7 @@
+div.image-loading {
+    background: #000000 url('../images/loading.gif') no-repeat scroll center center;
+}
+
+div.image-loading-error {
+    background: #000000 url('../images/delete_16.png') no-repeat scroll center center;
+}
